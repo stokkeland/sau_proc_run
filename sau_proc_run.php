@@ -1,6 +1,9 @@
 <?php
  /**
   * Run a system process - capture stdout and stderr and result, supply stdin (Optional)
+  * 
+  * (C) Copyright Thomas Stokkeland (Sauen) 2017-2024
+  * Revision: 2024-02-27
   *
   * System Requirements:
   * Should work on PHP 5 i think, but you should not be using that, so lets say PHP >7.2
